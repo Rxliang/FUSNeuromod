@@ -1,4 +1,4 @@
-# FUSNeuromod [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rxliang/FUSNeuromod/blob/main/MEA_analysis.ipynb)
+# FUSNeuromod [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rxliang/FUSNeuromod/blob/main/FUS_neuromod_MEA.ipynb)
 
 
 Ruixing Liang
