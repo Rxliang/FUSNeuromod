@@ -1,6 +1,7 @@
 # FUSNeuromod
 
 Ruixing Liang 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rxliang/FUSNeuromod/blob/main/try_MEA(1).ipynb)
 
 Work in Process repo for post-processing neuronal response data
 
